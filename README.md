@@ -14,8 +14,8 @@ This challenge consisted of refactoring the code on the exisitng webpage for "Ho
 N/A
 
 ## Usage
-To use this webpage, follow this link: [title] (https://colint771.github.io/challenge-1/)
-![alt text] (Screen Shot 2022-10-26 at 8.55.09 PM Medium.jpeg)
+To use this webpage, follow this link: (https://colint771.github.io/challenge-1/)
+![screenshot] (Screen Shot 2022-10-26 at 8.55.09 PM.png)
 
 ## Credits
 N/A
