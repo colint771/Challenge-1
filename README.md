@@ -15,7 +15,7 @@ N/A
 
 ## Usage
 To use this webpage, follow this link: (https://colint771.github.io/challenge-1/)
-![Myimage] (https://github.com/colint771/challenge-1/blob/main/Screen%20Shot%202022-10-26%20at%208.55.09%20PM%20Medium.jpeg)
+![img](https://github.com/colint771/challenge-1/blob/main/Screen%20Shot%202022-10-26%20at%208.55.09%20PM%20Medium.jpeg)
 
 ## Credits
 N/A
